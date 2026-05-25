@@ -1,0 +1,97 @@
+{
+  "header": {
+    "bookService": "সেৱা বুক কৰক",
+    "languageSwitch": "ভাষা সলনি কৰক"
+  },
+  "hero": {
+    "eyebrow": "সূৰুযমুখীলৈ স্বাগতম",
+    "title": "ভৰসাযোগ্য ঘৰুৱা সেৱা আৰু অনুষ্ঠান পৰিচালনা",
+    "description": "দক্ষ কাৰিকৰ আৰু সম্পূৰ্ণ অনুষ্ঠান সহযোগিতাৰে সূৰুযমুখী আপোনাৰ বুকিং প্ৰক্ৰিয়া সহজ আৰু দ্ৰুত কৰি তোলে।"
+  },
+  "services": {
+    "title": "আমাৰ সেৱাসমূহ:",
+    "items": [
+      {
+        "label": "টাইলচ মিস্ত্ৰী",
+        "icon": "tiles.png"
+      },
+      {
+        "label": "ৰং মিস্ত্ৰী",
+        "icon": "housepaint.png"
+      },
+      {
+        "label": "পানীৰ পাইপৰ সংযোগ (Plumbing)",
+        "icon": "plumber.png"
+      },
+      {
+        "label": "ফ্ৰীজ মেৰামতি",
+        "icon": "fridge.png"
+      },
+      {
+        "label": "ওৱাচিং মেচিন মেৰামতি",
+        "icon": "washingmachine.png"
+      }
+    ]
+  },
+  "events": {
+    "title": "সূৰুযমুখী কেটাৰিং সেৱা আৰু ইভেণ্ট মেনেজমেন্ট:",
+    "intro": "আপোনাৰ যিকোনো অনুষ্ঠানক সফল কৰিবলৈ আমি আছোঁ:",
+    "items": [
+      {
+        "label": "বিয়া",
+        "icon": "wedding.png"
+      },
+      {
+        "label": "সকাম",
+        "icon": "funeral.png"
+      },
+      {
+        "label": "বাৰ্থডে পাৰ্টি",
+        "icon": "birthday.png"
+      },
+      {
+        "label": "সুদক্ষ কাৰিকৰ",
+        "icon": "skilledworkers.png"
+      },
+      {
+        "label": "কফি মেচিনৰ ব্যৱস্থা",
+        "icon": "coffeemachine.png"
+      },
+      {
+        "label": "বাফে (Buffet) ছেট ভাড়ালৈ দিয়া হয়",
+        "icon": "buffetset.png"
+      },
+      {
+        "label": "বাফে (Buffet) কাউণ্টাৰ",
+        "icon": "buffetcounter.png"
+      },
+      {
+        "label": "ও চাফাই কৰ্মী",
+        "icon": "cleaningstaff.png"
+      },
+      {
+        "label": "ফুলৰ সজ্জা (Flower Decoration)",
+        "icon": "flowerdecor.png"
+      }
+    ]
+  },
+  "contact": {
+    "label": "যোগাযোগ কৰক:",
+    "phone": "8399873996"
+  },
+  "footer": {
+    "linksTitle": "যোগাযোগ লিংকসমূহ:",
+    "phoneLabel": "ফোন",
+    "whatsappLabel": "হোৱাটছএপ",
+    "facebookLabel": "ফেচবুক",
+    "youtubeLabel": "ইউটিউব",
+    "locationsTitle": "অৱস্থান:",
+    "locations": [
+      "যোৰহাট",
+      "গোলাঘাট",
+      "বোকাখাট"
+    ],
+    "copyrightPrefix": "স্বত্বাধিকাৰ",
+    "companyName": " সূৰুজমুখী"
+  }
+}

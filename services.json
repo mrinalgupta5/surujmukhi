@@ -1,0 +1,50 @@
+[
+  {
+    "id": "house-painting",
+    "name": "House Painting",
+    "description": "Interior and exterior painting with clean prep and finish work.",
+    "badge": "HP",
+    "turnaround": "Usually available within 2 days",
+    "feeLabel": "From INR 1,800"
+  },
+  {
+    "id": "tile-work",
+    "name": "Tiles Service",
+    "description": "Floor and wall tile fitting, replacement, and grout touch-ups.",
+    "badge": "TL",
+    "turnaround": "Slots open this week",
+    "feeLabel": "From INR 1,250"
+  },
+  {
+    "id": "plumbing",
+    "name": "Plumber",
+    "description": "Leak fixing, tap replacement, drainage issues, and fittings.",
+    "badge": "PL",
+    "turnaround": "Same-day help for urgent jobs",
+    "feeLabel": "From INR 499"
+  },
+  {
+    "id": "false-ceiling",
+    "name": "False Ceiling",
+    "description": "Gypsum, PVC, and modular false ceiling work for homes and shops.",
+    "badge": "FC",
+    "turnaround": "Estimated in 3 to 5 days",
+    "feeLabel": "Custom quotation"
+  },
+  {
+    "id": "appliance-repair",
+    "name": "Appliance Repair",
+    "description": "Refrigerator and washing machine troubleshooting and repairs.",
+    "badge": "AR",
+    "turnaround": "Available on demand",
+    "feeLabel": "From INR 350"
+  },
+  {
+    "id": "catering",
+    "name": "Catering",
+    "description": "Small gatherings, office lunches, and event catering packages.",
+    "badge": "CT",
+    "turnaround": "Advance booking recommended",
+    "feeLabel": "Custom menu pricing"
+  }
+]
