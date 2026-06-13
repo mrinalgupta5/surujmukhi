@@ -1,0 +1,103 @@
+{
+  "common": {
+    "status": "Status",
+    "next": "Next",
+    "previous": "Previous",
+    "loading": "Loading...",
+    "languageSwitch": "Switch language",
+    "languageCode": "EN"
+  },
+  "app": {
+    "routeLoadingAria": "Loading next step",
+    "routeLoadingText": "Loading next step..."
+  },
+  "service": {
+    "stepLabel": "Step 1 of 3",
+    "title": "Pick a service.",
+    "panelTitle": "Service selection",
+    "panelNote": "Pick a service, then continue to the date screen.",
+    "loadingTitle": "Loading services",
+    "loadingText": "Fetching the catalog and booked-date data.",
+    "catalogIssue": "Catalog issue",
+    "selectedService": "Selected service",
+    "selectedServiceText": "Continue to pick an available date."
+  },
+  "date": {
+    "stepLabel": "Step 2 of 3",
+    "title": "Pick an available date.",
+    "panelTitle": "Date selection",
+    "panelNoteWithService": "{{service}} service is ready. Choose any open day this month.",
+    "earlierMonth": "Earlier month",
+    "laterMonth": "Later month",
+    "loadingTitle": "Loading calendar",
+    "loadingText": "Fetching booked dates for the chosen service.",
+    "catalogIssue": "Catalog issue",
+    "weekdaySun": "Sun",
+    "weekdayMon": "Mon",
+    "weekdayTue": "Tue",
+    "weekdayWed": "Wed",
+    "weekdayThu": "Thu",
+    "weekdayFri": "Fri",
+    "weekdaySat": "Sat",
+    "calendarAria": "Service booking calendar",
+    "booked": "Booked",
+    "outside": "Outside",
+    "today": "Today",
+    "calendarNote": "Booked dates are blocked automatically and cannot be selected.",
+    "selectedDate": "Selected date",
+    "selectedDateText": "Continue to enter the contact and address details."
+  },
+  "contact": {
+    "stepLabel": "Step 3 of 3",
+    "title": "Enter contact details.",
+    "panelTitle": "Contact details",
+    "panelSubtitle": "Finish the booking request",
+    "panelNote": "These details will be sent to the booking API when the request is submitted.",
+    "loadingTitle": "Preparing form",
+    "loadingText": "Loading booking state and catalog data.",
+    "catalogIssue": "Catalog issue",
+    "bookingSent": "Booking request sent",
+    "bookingSummaryLine": "{{service}} on {{date}}",
+    "readyToSubmit": "Ready to submit",
+    "contactNumber": "Contact number",
+    "contactPlaceholder": "9876543210",
+    "contactInvalid": "Enter a valid 10-digit contact number.",
+    "address": "Address",
+    "addressPlaceholder": "House number, area, city, landmark",
+    "addressInvalid": "Address must be at least 10 characters long.",
+    "sheetStatus": "Sheet status",
+    "submitting": "Submitting...",
+    "submitBooking": "Submit booking",
+    "bookAnother": "Book another service"
+  },
+  "flow": {
+    "formIncomplete": "Please fill in the contact number and address before submitting.",
+    "bookingSubmitted": "Booking request {{referenceId}} has been submitted for {{serviceName}}.",
+    "sheetRequestSent": "Sheet request sent",
+    "sheetExportFailed": "Sheet export failed",
+    "bookingSubmitFailed": "The booking request could not be submitted. Please try again.",
+    "catalogLoadFailed": "The booking catalog could not be loaded."
+  },
+  "catalog": {
+    "services": {
+      "house-painting": {
+        "name": "House Painting"
+      },
+      "tile-work": {
+        "name": "Tiles Service"
+      },
+      "plumbing": {
+        "name": "Plumber"
+      },
+      "false-ceiling": {
+        "name": "False Ceiling"
+      },
+      "appliance-repair": {
+        "name": "Appliance Repair"
+      },
+      "catering": {
+        "name": "Catering"
+      }
+    }
+  }
+}

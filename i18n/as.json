@@ -1,0 +1,103 @@
+{
+  "common": {
+    "status": "স্থিতি",
+    "next": "পৰৱৰ্তী",
+    "previous": "পূৰ্বৱৰ্তী",
+    "loading": "লোড হৈ আছে...",
+    "languageSwitch": "ভাষা সলনি কৰক",
+    "languageCode": "AS"
+  },
+  "app": {
+    "routeLoadingAria": "পৰৱৰ্তী ধাপ লোড হৈ আছে",
+    "routeLoadingText": "পৰৱৰ্তী ধাপ লোড হৈ আছে..."
+  },
+  "service": {
+    "stepLabel": "ধাপ ১ / ৩",
+    "title": "এটা সেৱা বাছক।",
+    "panelTitle": "সেৱা বাছনি",
+    "panelNote": "এটা সেৱা বাছি তাৰ পিছত তাৰিখ পৃষ্ঠালৈ আগবাঢ়ক।",
+    "loadingTitle": "সেৱাসমূহ লোড হৈ আছে",
+    "loadingText": "কেটালগ আৰু বুক হোৱা তাৰিখসমূহ আনা হৈছে।",
+    "catalogIssue": "কেটালগ সমস্যা",
+    "selectedService": "বাছনি কৰা সেৱা",
+    "selectedServiceText": "এতিয়া উপলব্ধ তাৰিখ বাছিবলৈ আগবাঢ়ক।"
+  },
+  "date": {
+    "stepLabel": "ধাপ ২ / ৩",
+    "title": "উপলব্ধ তাৰিখ বাছক।",
+    "panelTitle": "তাৰিখ বাছনি",
+    "panelNoteWithService": "{{service}} সেৱা সাজু আছে। এই মাহত খালী দিন এটা বাছক।",
+    "earlierMonth": "পূৰ্বৰ মাহ",
+    "laterMonth": "পিছৰ মাহ",
+    "loadingTitle": "কেলেণ্ডাৰ লোড হৈ আছে",
+    "loadingText": "বাছনি কৰা সেৱাৰ বুক কৰা তাৰিখসমূহ আনা হৈছে।",
+    "catalogIssue": "কেটালগ সমস্যা",
+    "weekdaySun": "ৰবি",
+    "weekdayMon": "সোম",
+    "weekdayTue": "মঙ্গল",
+    "weekdayWed": "বুধ",
+    "weekdayThu": "বৃহস্পতি",
+    "weekdayFri": "শুক্ৰ",
+    "weekdaySat": "শনি",
+    "calendarAria": "সেৱা বুকিং কেলেণ্ডাৰ",
+    "booked": "বুকড",
+    "outside": "বাহিৰ",
+    "today": "আজি",
+    "calendarNote": "বুক কৰা তাৰিখসমূহ স্বয়ংক্রিয়ভাৱে বন্ধ থাকে আৰু বাছিব নোৱাৰি।",
+    "selectedDate": "বাছনি কৰা তাৰিখ",
+    "selectedDateText": "এতিয়া যোগাযোগ আৰু ঠিকনাৰ তথ্য ভৰ্তি কৰক।"
+  },
+  "contact": {
+    "stepLabel": "ধাপ ৩ / ৩",
+    "title": "যোগাযোগৰ তথ্য লিখক।",
+    "panelTitle": "যোগাযোগৰ তথ্য",
+    "panelSubtitle": "বুকিং অনুৰোধ সম্পূৰ্ণ কৰক",
+    "panelNote": "এই তথ্যসমূহ বুকিং API লৈ প্ৰেৰণ কৰা হ'ব।",
+    "loadingTitle": "ফৰ্ম সাজু কৰা হৈছে",
+    "loadingText": "বুকিং অৱস্থা আৰু কেটালগ তথ্য লোড হৈ আছে।",
+    "catalogIssue": "কেটালগ সমস্যা",
+    "bookingSent": "বুকিং অনুৰোধ পঠোৱা হ'ল",
+    "bookingSummaryLine": "{{date}} তাৰিখে {{service}}",
+    "readyToSubmit": "জমা দিবলৈ সাজু",
+    "contactNumber": "যোগাযোগ নম্বৰ",
+    "contactPlaceholder": "9876543210",
+    "contactInvalid": "ঠিক ১০-অংকৰ যোগাযোগ নম্বৰ লিখক।",
+    "address": "ঠিকনা",
+    "addressPlaceholder": "ঘৰৰ নম্বৰ, এলেকা, চহৰ, চিনাক্ত স্থান",
+    "addressInvalid": "ঠিকনা কমেও ১০ টা আখৰৰ হ'ব লাগিব।",
+    "sheetStatus": "শ্বীট স্থিতি",
+    "submitting": "জমা দিয়া হৈছে...",
+    "submitBooking": "বুকিং জমা দিয়ক",
+    "bookAnother": "আন এটা সেৱা বুক কৰক"
+  },
+  "flow": {
+    "formIncomplete": "জমা দিয়াৰ আগতে যোগাযোগ নম্বৰ আৰু ঠিকনা পূৰণ কৰক।",
+    "bookingSubmitted": "{{serviceName}}ৰ বাবে বুকিং অনুৰোধ {{referenceId}} সফলভাৱে জমা দিয়া হৈছে।",
+    "sheetRequestSent": "শ্বীট অনুৰোধ পঠোৱা হৈছে",
+    "sheetExportFailed": "শ্বীট এক্সপোৰ্ট বিফল হ'ল",
+    "bookingSubmitFailed": "বুকিং অনুৰোধ জমা দিব পৰা নগ'ল। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।",
+    "catalogLoadFailed": "বুকিং কেটালগ লোড কৰিব পৰা নগ'ল।"
+  },
+  "catalog": {
+    "services": {
+      "house-painting": {
+        "name": "ঘৰ ৰং কৰা"
+      },
+      "tile-work": {
+        "name": "টাইলছ সেৱা"
+      },
+      "plumbing": {
+        "name": "প্লাম্বাৰ"
+      },
+      "false-ceiling": {
+        "name": "ফলছ ছিলিং"
+      },
+      "appliance-repair": {
+        "name": "ইলেক্ট্ৰনিক সামগ্ৰী মাৰামতি"
+      },
+      "catering": {
+        "name": "কেটাৰিং"
+      }
+    }
+  }
+}

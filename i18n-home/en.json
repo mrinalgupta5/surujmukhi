@@ -1,0 +1,97 @@
+{
+  "header": {
+    "bookService": "Book a service",
+    "languageSwitch": "Switch language"
+  },
+  "hero": {
+    "eyebrow": "Welcome to Surujmukhi",
+    "title": "Reliable Home Services and Event Support",
+    "description": "From skilled home repair professionals to complete event support, Surujmukhi helps you book trusted services quickly."
+  },
+  "services": {
+    "title": "Our Services:",
+    "items": [
+      {
+        "label": "Tile mason",
+        "icon": "tiles.png"
+      },
+      {
+        "label": "Painting mason",
+        "icon": "housepaint.png"
+      },
+      {
+        "label": "Plumbing connection",
+        "icon": "plumber.png"
+      },
+      {
+        "label": "Fridge repair",
+        "icon": "fridge.png"
+      },
+      {
+        "label": "Washing machine repair",
+        "icon": "washingmachine.png"
+      }
+    ]
+  },
+  "events": {
+    "title": "Surujmukhi Catering Service and Event Management",
+    "intro": "We are here to make every event successful:",
+    "items": [
+      {
+        "label": "Wedding",
+        "icon": "wedding.png"
+      },
+      {
+        "label": "Shraaddha / memorial gatherings",
+        "icon": "funeral.png"
+      },
+      {
+        "label": "Birthday party",
+        "icon": "birthday.png"
+      },
+      {
+        "label": "Skilled workers",
+        "icon": "skilledworkers.png"
+      },
+      {
+        "label": "Coffee machine setup",
+        "icon": "coffeemachine.png"
+      },
+      {
+        "label": "Buffet set available on rent",
+        "icon": "buffetset.png"
+      },
+      {
+        "label": "Buffet counter",
+        "icon": "buffetcounter.png"
+      },
+      {
+        "label": "Cleaning staff",
+        "icon": "cleaningstaff.png"
+      },
+      {
+        "label": "Flower decoration",
+        "icon": "flowerdecor.png"
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact:",
+    "phone": "8399873996"
+  },
+  "footer": {
+    "linksTitle": "Connect with us:",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "WhatsApp",
+    "facebookLabel": "Facebook",
+    "youtubeLabel": "YouTube",
+    "locationsTitle": "Locations:",
+    "locations": [
+      "Jorhat",
+      "Golaghat",
+      "Bokakhat"
+    ],
+    "copyrightPrefix": "Copyright",
+    "companyName": " Surujmukhi"
+  }
+}
