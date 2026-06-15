@@ -4,6 +4,7 @@
     "name": "House Painting",
     "description": "Interior and exterior painting with clean prep and finish work.",
     "badge": "HP",
+    "icon": "housepaint.png",
     "turnaround": "Usually available within 2 days",
     "feeLabel": "From INR 1,800"
   },
@@ -12,6 +13,7 @@
     "name": "Tiles Service",
     "description": "Floor and wall tile fitting, replacement, and grout touch-ups.",
     "badge": "TL",
+    "icon": "tiles.png",
     "turnaround": "Slots open this week",
     "feeLabel": "From INR 1,250"
   },
@@ -20,6 +22,7 @@
     "name": "Plumber",
     "description": "Leak fixing, tap replacement, drainage issues, and fittings.",
     "badge": "PL",
+    "icon": "plumber.png",
     "turnaround": "Same-day help for urgent jobs",
     "feeLabel": "From INR 499"
   },
@@ -28,22 +31,25 @@
     "name": "False Ceiling",
     "description": "Gypsum, PVC, and modular false ceiling work for homes and shops.",
     "badge": "FC",
+    "icon": "falseceiling.jpeg",
     "turnaround": "Estimated in 3 to 5 days",
     "feeLabel": "Custom quotation"
   },
   {
     "id": "appliance-repair",
     "name": "Appliance Repair",
-    "description": "Refrigerator and washing machine troubleshooting and repairs.",
+    "description": "AC, refrigerator, and washing machine troubleshooting and repairs.",
     "badge": "AR",
+    "icon": "skilledworkers.png",
     "turnaround": "Available on demand",
     "feeLabel": "From INR 350"
   },
   {
     "id": "catering",
     "name": "Catering",
-    "description": "Small gatherings, office lunches, and event catering packages.",
+    "description": "Smalll gatherings, office lunches, and event catering packages.",
     "badge": "CT",
+    "icon": "buffetcounter.png",
     "turnaround": "Advance booking recommended",
     "feeLabel": "Custom menu pricing"
   }

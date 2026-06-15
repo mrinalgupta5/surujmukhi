@@ -81,22 +81,28 @@
   "catalog": {
     "services": {
       "house-painting": {
-        "name": "House Painting"
+        "name": "House Painting",
+        "description": "Interior and exterior painting with clean prep and finish work."
       },
       "tile-work": {
-        "name": "Tiles Service"
+        "name": "Tiles Service",
+        "description": "Floor and wall tile fitting, replacement, and grout touch-ups."
       },
       "plumbing": {
-        "name": "Plumber"
+        "name": "Plumber",
+        "description": "Leak fixing, tap replacement, drainage issues, and fittings."
       },
       "false-ceiling": {
-        "name": "False Ceiling"
+        "name": "False Ceiling",
+        "description": "Gypsum, PVC, and modular false ceiling work for homes and shops."
       },
       "appliance-repair": {
-        "name": "Appliance Repair"
+        "name": "Appliance Repair",
+        "description": "AC, refrigerator, and washing machine troubleshooting and repairs."
       },
       "catering": {
-        "name": "Catering"
+        "name": "Catering",
+        "description": "Small gatherings, office lunches, and event catering packages."
       }
     }
   }

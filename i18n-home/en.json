@@ -30,6 +30,10 @@
       {
         "label": "Washing machine repair",
         "icon": "washingmachine.png"
+      },
+      {
+        "label": "AC repair",
+        "icon": "acrepair.png"
       }
     ]
   },

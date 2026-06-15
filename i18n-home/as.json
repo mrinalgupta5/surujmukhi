@@ -30,6 +30,10 @@
       {
         "label": "ওৱাচিং মেচিন মেৰামতি",
         "icon": "washingmachine.png"
+      },
+      {
+        "label": "এ.চি. মেৰামতি",
+        "icon": "acrepair.png"
       }
     ]
   },
